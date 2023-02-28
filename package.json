@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server:run": "tsc && node dist/server/index.js",
-    "client:run": "tsc && node dist/client/index.js"
+    "server": "tsc && node dist/server/index.js",
+    "client": "tsc && node dist/client/index.js"
   },
   "keywords": [],
   "author": "",
